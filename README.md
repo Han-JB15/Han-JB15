@@ -18,7 +18,7 @@
 - Weight Training
 
 ### 4. Github Status
-<a href="https://github.com/HAN-JB15"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HAN-JB15&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAN-JB15)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 5.BAEACKJOON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gks0315hjb)](https://solved.ac/gks0315hjb/)
@@ -32,6 +32,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
-### 7.test
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAN-JB15&layout=compact)](https://github.com/HAN-JB15/github-readme-stats)
+<!-- ### 7.test -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAN-JB15&layout=compact)](https://github.com/HAN-JB15/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksweeni)](https://github.com/anuraghazra/github-readme-stats) -->
