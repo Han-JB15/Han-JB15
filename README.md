@@ -33,5 +33,5 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
 ### 7.test
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksweeni&layout=compact)](https://github.com/ksweeni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAN-JB15&layout=compact)](https://github.com/HAN-JB15/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksweeni)](https://github.com/anuraghazra/github-readme-stats)
