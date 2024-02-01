@@ -4,6 +4,7 @@
 ### Introduction
 - 다양한 IT 기술에 관심이 많고 적재적소에 필요한 기술을 사용하는 개발자가 되고 싶은 한종범입니다.
 - 사람들과 소통하는 것을 좋아하며, 그 과정에서 배움을 얻고 성장하고자 노력하고 있습니다.
+- 노션 주소 : https://315304.notion.site/97ce6a61396142a997d42c3b5a323ca2?pvs=74
 
 ### 1. Who Am I
 - I’m currently learning Big data, Algorithm, Python, Java
