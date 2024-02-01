@@ -4,7 +4,7 @@
 ### Introduction
 - 다양한 IT 기술에 관심이 많고 적재적소에 필요한 기술을 사용하는 개발자가 되고 싶은 한종범입니다.
 - 사람들과 소통하는 것을 좋아하며, 그 과정에서 배움을 얻고 성장하고자 노력하고 있습니다.
-- 노션 주소 : https://315304.notion.site/97ce6a61396142a997d42c3b5a323ca2?pvs=74
+- Notion : https://315304.notion.site/97ce6a61396142a997d42c3b5a323ca2?pvs=74
 
 ### 1. Who Am I
 - I’m currently learning Big data, Algorithm, Python, Java
@@ -12,13 +12,13 @@
 - My hometown is Siheung, Gyeonggi-do in Korea
 
 ### 2. Experience
-- Soongsil University , Industrial and Information Systems Engineering (2016.03~2022.02)
+- Soongsil University, Industrial and Information Systems Engineering (2016.03~2022.02)
 - Lawdians, Work Scholarship Student (2020.03~2021.07)
 - Ubion, Service Operation Team Intern (2021.01~2021.02)
 - JASON, Data Engineer (2021.07~2023.05)
 
 ### 3. What I Like
-- Sports
+- Sports (Baseball, soccer)
 - Watch Entertainment Video
 - Weight Training
 
