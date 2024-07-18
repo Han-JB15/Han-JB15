@@ -24,13 +24,10 @@
 - Watch Entertainment Video
 - Weight Training
 
-### 4. Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAN-JB15)](https://github.com/anuraghazra/github-readme-stats)
-
-### 5. BAECKJOON
+### 4. BAECKJOON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gks0315hjb)](https://solved.ac/gks0315hjb/)
 
-### 6. Languages and Tools
+### 5. Languages and Tools
 - PROGRAM LANGUAGE : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 - DB : <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
 - OS : <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
