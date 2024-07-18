@@ -17,6 +17,7 @@
 - Lawdians, Work Scholarship Student (2020.03~2021.07)
 - Ubion, Service Operation Team Intern (2021.01~2021.02)
 - JASON, Data Engineer (2021.07~2023.05)
+- Shinhan DS 뱅킹전자팀 인턴 (2024.04~2024.06) 
 
 ### 3. What I Like
 - Sports (Baseball, soccer)
