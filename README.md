@@ -25,10 +25,18 @@
 - Watch Entertainment Video
 - Weight Training
 
-### 4. BAECKJOON
+### 4. License
+- 자동차운전면허 보통 2급 : 2019.08
+- ADsP : 2021.05
+- SQLD : 2021.05
+- 정보처리기사 : 2022.10
+- 토익스피킹(IH:150점) : 2023.08
+- 증권투자권유자문인력 : 2025.02.16
+
+### 5. BAECKJOON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gks0315hjb)](https://solved.ac/gks0315hjb/)
 
-### 5. Languages and Tools
+### 6. Languages and Tools
 - PROGRAM LANGUAGE : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
 - DB : <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
 - OS : <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
